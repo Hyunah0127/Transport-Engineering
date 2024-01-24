@@ -1,0 +1,56 @@
+Summary Group,SSAM_Measure,Min,Max,Mean,Variance,
+
+Summary Group,SSAM_Measure,Min,Max,Mean,Variance,
+Unfiltered-All Files,TTC,0,1.5,0.972529,0.323396
+Unfiltered-All Files,PET,0,4.90039,1.82058,1.91814
+Unfiltered-All Files,MaxS,0,16.1272,5.02507,8.49917
+Unfiltered-All Files,DeltaS,0,24.3007,2.73703,6.61053
+Unfiltered-All Files,DR,-8.38855,3.30975,-1.79515,5.14127
+Unfiltered-All Files,MaxD,-8.47168,3.30975,-3.95245,8.79667
+Unfiltered-All Files,MaxDeltaV,0,13.4077,1.48614,2.02188
+Unfiltered-All Files,P(UEA),1,1,1,0
+Unfiltered-All Files,mTTC,99,99,99,0
+Unfiltered-All Files,mPET,99,99,99,0
+
+Summary Group,SSAM_Measure,Min,Max,Mean,Variance,
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_004.trj,TTC,0,1.5,0.97855,0.318795
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_004.trj,PET,0,4.90039,1.83889,1.91174
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_004.trj,MaxS,0,15.7085,4.94424,8.2282
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_004.trj,DeltaS,0,24.3007,2.67886,6.43824
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_004.trj,DR,-8.38855,3.25146,-1.8029,5.22622
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_004.trj,MaxD,-8.47168,3.25146,-3.96531,8.78711
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_004.trj,MaxDeltaV,0,13.4077,1.45056,1.95075
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_004.trj,P(UEA),1,1,1,0
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_004.trj,mTTC,99,99,99,0
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_004.trj,mPET,99,99,99,0
+
+Summary Group,SSAM_Measure,Min,Max,Mean,Variance,
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_005.trj,TTC,0,1.5,0.970229,0.325189
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_005.trj,PET,0,4.90039,1.83388,1.94085
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_005.trj,MaxS,0,16.1272,5.07237,9.0245
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_005.trj,DeltaS,0,20.7147,2.80269,7.20106
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_005.trj,DR,-8.2302,3.30975,-1.81933,5.15204
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_005.trj,MaxD,-8.39562,3.30975,-3.98076,8.8434
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_005.trj,MaxDeltaV,0,12.8601,1.51789,2.18024
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_005.trj,P(UEA),1,1,1,0
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_005.trj,mTTC,99,99,99,0
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_005.trj,mPET,99,99,99,0
+
+Summary Group,SSAM_Measure,Min,Max,Mean,Variance,
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_006.trj,TTC,0,1.5,0.968145,0.326681
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_006.trj,PET,0,4.90039,1.7863,1.90033
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_006.trj,MaxS,0,15.5787,5.06693,8.25011
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_006.trj,DeltaS,0,20.7311,2.73452,6.18657
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_006.trj,DR,-8.33742,3.20729,-1.7615,5.03362
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_006.trj,MaxD,-8.40876,3.20729,-3.90871,8.75764
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_006.trj,MaxDeltaV,0,12.3906,1.49328,1.93586
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_006.trj,P(UEA),1,1,1,0
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_006.trj,mTTC,99,99,99,0
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_006.trj,mPET,99,99,99,0
+
+
+Summary Group , Total, unclassified,crossing,rear end,lane change,
+Unfiltered-All Files,58439,0,1961,48300,8178,
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_004.trj,20785,0,669,17205,2911,
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_005.trj,19129,0,767,15766,2596,
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\리트라이\신호만(log o)\제어프로젝트_2조_신호만(logo)_006.trj,18525,0,525,15329,2671,

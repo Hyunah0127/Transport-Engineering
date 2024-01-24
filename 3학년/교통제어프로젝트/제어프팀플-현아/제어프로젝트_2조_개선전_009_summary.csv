@@ -1,0 +1,56 @@
+Summary Group,SSAM_Measure,Min,Max,Mean,Variance,
+
+Summary Group,SSAM_Measure,Min,Max,Mean,Variance,
+Unfiltered-All Files,TTC,0,1.5,1.00095,0.302341
+Unfiltered-All Files,PET,0,4.90039,1.85628,1.84713
+Unfiltered-All Files,MaxS,0,16.2821,4.94766,7.62177
+Unfiltered-All Files,DeltaS,0,25.9429,2.58748,5.25385
+Unfiltered-All Files,DR,-8.41526,3.30977,-1.83901,5.09716
+Unfiltered-All Files,MaxD,-8.48431,3.30977,-4.08071,8.58514
+Unfiltered-All Files,MaxDeltaV,0,17.7456,1.40785,1.63781
+Unfiltered-All Files,P(UEA),1,1,1,0
+Unfiltered-All Files,mTTC,99,99,99,0
+Unfiltered-All Files,mPET,99,99,99,0
+
+Summary Group,SSAM_Measure,Min,Max,Mean,Variance,
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_009.trj,TTC,0,1.5,1.01965,0.288373
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_009.trj,PET,0,4.90039,1.90739,1.82241
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_009.trj,MaxS,0,16.0197,4.78067,7.20697
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_009.trj,DeltaS,0,25.9429,2.46678,4.83254
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_009.trj,DR,-8.31749,3.1382,-1.89618,5.09281
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_009.trj,MaxD,-8.42489,3.1382,-4.16714,8.35837
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_009.trj,MaxDeltaV,0,17.7456,1.33833,1.48551
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_009.trj,P(UEA),1,1,1,0
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_009.trj,mTTC,99,99,99,0
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_009.trj,mPET,99,99,99,0
+
+Summary Group,SSAM_Measure,Min,Max,Mean,Variance,
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_010.trj,TTC,0,1.5,0.980789,0.315721
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_010.trj,PET,0,4.90039,1.80388,1.86203
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_010.trj,MaxS,0,15.8519,5.07068,7.99052
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_010.trj,DeltaS,0,22.9983,2.67161,5.6202
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_010.trj,DR,-8.25697,3.30977,-1.79112,5.12136
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_010.trj,MaxD,-8.44799,3.30977,-4.00561,8.82342
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_010.trj,MaxDeltaV,0,16.2855,1.45787,1.78987
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_010.trj,P(UEA),1,1,1,0
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_010.trj,mTTC,99,99,99,0
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_010.trj,mPET,99,99,99,0
+
+Summary Group,SSAM_Measure,Min,Max,Mean,Variance,
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_011.trj,TTC,0,1.5,0.999105,0.304542
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_011.trj,PET,0,4.90039,1.84867,1.85522
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_011.trj,MaxS,0,16.2821,5.01763,7.68696
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_011.trj,DeltaS,0,25.4662,2.64246,5.35238
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_011.trj,DR,-8.41526,3.22549,-1.8205,5.07379
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_011.trj,MaxD,-8.48431,3.22549,-4.05524,8.5998
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_011.trj,MaxDeltaV,0,16.0385,1.43807,1.65587
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_011.trj,P(UEA),1,1,1,0
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_011.trj,mTTC,99,99,99,0
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_011.trj,mPET,99,99,99,0
+
+
+Summary Group , Total, unclassified,crossing,rear end,lane change,
+Unfiltered-All Files,59354,0,519,50366,8469,
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_009.trj,21599,0,168,18526,2905,
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_010.trj,18237,0,187,15278,2772,
+Unfiltered-C:\Users\AJOU\Desktop\제어프로젝트 2조\vissim fuck\개선전\제어프로젝트_2조_개선전_011.trj,19518,0,164,16562,2792,
